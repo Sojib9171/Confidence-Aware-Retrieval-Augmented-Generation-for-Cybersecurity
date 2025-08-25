@@ -8,7 +8,7 @@ A central feature of this work is **uncertainty-aware evaluation**, using **entr
 
 ---
 
-## 🎯 Research Objectives
+## Research Objectives
 - Develop a **retrieval-augmented LLM pipeline** for analyzing and responding to cyber threat intelligence.  
 - Use **CISCO Talos vulnerability reports** as trusted external knowledge sources for retrieval.  
 - Measure **response confidence** with entropy-based uncertainty metrics.  
